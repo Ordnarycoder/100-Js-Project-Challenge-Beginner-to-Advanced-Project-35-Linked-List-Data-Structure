@@ -1,0 +1,1 @@
+Implementing linked list data structure to javascript with class method.
